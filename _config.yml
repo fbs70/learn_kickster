@@ -35,5 +35,5 @@ name: learn_kickster
 
 permalink: pretty
 
-baseurl: /
-url: # add site url
+baseurl: /learn_kickster
+url: http://fbs70.github.io
