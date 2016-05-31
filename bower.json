@@ -1,0 +1,6 @@
+{
+  "name": "learn_kickster",
+  "dependencies": {
+    "jquery": "~2.2.3"
+  }
+}
