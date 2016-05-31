@@ -6,7 +6,7 @@ assets:
     - _assets/stylesheets
     - _vendor/
 
-baseurl: /learn_kickster
+
 
 exclude:
   - .bowerrc
@@ -25,8 +25,15 @@ gems:
   - jekyll-assets
   - jekyll-sitemap
 
+# Build settings
+markdown: kramdown
+
+# Site settings
+title: Learn Kickster
+
 name: learn_kickster
 
 permalink: pretty
 
+baseurl: /
 url: # add site url
