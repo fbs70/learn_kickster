@@ -9,10 +9,10 @@ dependencies:
   pre:
     - ./bin/setup
 
-test:
-  post:
-    - bundle exec jekyll build
-    - bundle exec htmlproofer ./_site --only-4xx --allow-hash-href
+#test:
+#  post:
+  #  - bundle exec jekyll build
+    #- bundle exec htmlproofer ./_site --only-4xx --allow-hash-href
 
 ## Customize deployment commands
 deployment:
